@@ -1,0 +1,2 @@
+
+Prof.Might, I have only made slight modification to your code. I wrote a match case for space,newline and tab.Changed chartoken class to Longchar token class to handle '#\newline" and "#\tab".
